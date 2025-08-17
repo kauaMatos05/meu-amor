@@ -1,0 +1,13 @@
+.menu {
+    display: flex;           
+    justify-content: space-around; 
+    align-items: center;     
+    gap: 20px;     
+}
+
+.menu h2 {
+    background-color: #D72638;
+    border-radius: 10px;
+    color: black;
+    cursor: pointer;          
+}
