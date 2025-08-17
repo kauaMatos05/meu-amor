@@ -10,7 +10,7 @@ body{
     place-items: center;
     background-size: cover;
     background-position: center;
-    background-image: url(/fotos/teste.png);
+    background-image: url(fotos/teste.png);
 }
 
 .imgs {
@@ -46,4 +46,5 @@ body{
 .imgs img {
     width: 400px;
     filter: drop-shadow(9px 9px 9px rgba(7, 3, 5, 8));
+
 }
